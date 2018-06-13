@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528909498738.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3089420725",
+    "id" : "18741775",
+    "lastKnownWriteTime" : 1528910058,
+    "last_content_update" : 1528910058089,
+    "path" : "~/Github/reference/binary_operator.R",
+    "project_path" : "binary_operator.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
