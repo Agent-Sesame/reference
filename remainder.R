@@ -5,8 +5,8 @@
 # test case 2: remainder(7, 4) == 3
 
 remainder <- function(num, divisor = 2) {
-  
+
   rmdr <- num %% divisor
   print(rmdr)
 
-  }
+}
